@@ -1,0 +1,40 @@
+html {  /* Helvetica font for the entire page */
+  font-family: Helvetica;
+}
+
+
+h1 {  /* All of the required styling of the title */
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url("../images/pattern.jpeg");
+}
+
+
+h2 {  /* Style edits for each of the section titles */
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+
+#brushes-head { /* Background color for the brush section */
+  background-color: mediumspringgreen;
+}
+
+
+#frames-head {  /* Background color for the frames section */
+  background-color: lightcoral;
+}
+
+
+#paint-head { /* Background color for the paint section */
+  background-color: skyblue;
+}
+
+
+.price {  /* Styles the price info in each section of the article */
+  color: blue;
+  font-weight: bold;
+}
